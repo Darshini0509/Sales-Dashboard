@@ -1,1 +1,16 @@
-Hi This Dashboard.
+Hi! This Dashboard was inspired from a sales data.
+Overview
+This repository contains a comprehensive sales analysis dashboard that visually represents the sales data for the years 2019 and 2020. The dashboard provides insights into various aspects of the sales performance, including ship mode, product category and subcategory, sales by different segments, and payment modes.
+
+Dashboard Components:
+1. Ship Mode Analysis
+The dashboard includes a visualization that highlights the ship mode with the highest sales in both 2019 and 2020. This information is crucial for understanding the preferred shipping methods and optimizing logistics for better customer satisfaction.
+
+2. Category and Subcategory Sales
+Another key feature of the dashboard is the analysis of sales across different product categories and subcategories. Users can quickly identify which categories and subcategories contribute the most to overall sales, aiding in inventory management and marketing strategies.
+
+3. Sales by Different Segments
+The dashboard breaks down sales by different segments, providing a detailed view of how various market segments contribute to the overall revenue. This information is valuable for targeted marketing and identifying potential growth areas.
+
+4. Payment Mode Insights
+Understanding customer payment preferences is essential for optimizing the checkout process and ensuring a seamless customer experience. The dashboard includes a visualization that details sales based on different payment modes, helping businesses tailor their payment options to customer preferences.
